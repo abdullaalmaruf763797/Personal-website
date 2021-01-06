@@ -21,7 +21,7 @@ h2{
     text-decoration: none;
     background: linear-gradient(45deg, green, salmon);
     padding: 10px 20px;
-    border-radius: 2%;
+    border-radius: 6px;
     color: black;
     font-weight: 700;
 }
